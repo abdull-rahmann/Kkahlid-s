@@ -230,6 +230,9 @@
 
 
 /*** About ***/
+#about{
+    margin-top: -120px;
+}
 @media (min-width: 992px) {
     .container.about {
         max-width: 100% !important;
@@ -278,6 +281,9 @@
 
 
 /*** Service, Price & Team ***/
+#service, #price, #testimonial, #contact, #team, #quote, #fact, #feature{
+    margin-top: -120px;
+}
 .service-item,
 .price-item,
 .team-item {
